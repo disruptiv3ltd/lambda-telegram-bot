@@ -1,0 +1,13 @@
+{
+    "name": "lambda-telegram-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.mjs",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-telegram-bot-api": "^0.63.0"
+    }
+}
